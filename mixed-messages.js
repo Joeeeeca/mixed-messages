@@ -12,6 +12,7 @@ let message = `Your sign is ${randomSign}. You are having ${randomLuck}.
 You should ${randomAdvice}`;
 
 console.log(message);
+console.log("hello world");
 }
 
 
